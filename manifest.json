@@ -1,0 +1,9 @@
+{
+    "name": "NightSquad",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Penguin71/NightSquad",
+    "description": "A simple Assetpack for hats and stuff for me and my Friends, your welcome to use it.",
+    "dependencies": [
+        "YMC_MHZ-MoreHead-1.1.7"
+    ]
+}
